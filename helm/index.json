@@ -32,6 +32,6 @@
     "dashboards": [{"name": "Display 5000", "port": 5000}]
   },
   "backend": {
-    "imageid": "python"
+    "imageid": "kubernetes"
   }
 }

@@ -6,7 +6,7 @@ Let's see Helm in action, using a small little Go test api I created specificall
 
 
 
-git clone `https://github.com/daemonza/testapi.git; cd testapi`{{execute}}
+`git clone https://github.com/daemonza/testapi.git; cd testapi`{{execute}}
 
 
 First create a skeleton structure chart
